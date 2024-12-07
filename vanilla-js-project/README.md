@@ -1,6 +1,6 @@
 # reactjs-practices
 
-## vanilla JS Sample Code
+## Vanilla JS Sample Code
 
 ![alt text](./assets/image-0.png)
 

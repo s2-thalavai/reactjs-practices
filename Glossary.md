@@ -17,7 +17,8 @@ Scheme:
 Authority: 
 
     this part is composed by the domain name and the port number separated by a colon. 
-    The port is only mandatory when the standard ports of the HTTP protocol (80 for HTTP and 443 for HTTPS) are not being used by the web server. 
+    The port is only mandatory when the standard ports of the HTTP protocol (80 for HTTP and 443 for HTTPS) 
+    are not being used by the web server. 
     The // before the domain name indicates the beginning of the authority.
 
 Path to resource: 
@@ -32,4 +33,6 @@ Parameters:
 
 Anchor: 
 
-    This section, if present, starts by a # and is handled by the browser to display a specific part of the returned document. For example, it can point to a specific section in a HTML document.
+    This section, 
+    if present, starts by a # and is handled by the browser to display a specific part of the returned document. 
+    For example, it can point to a specific section in a HTML document.
